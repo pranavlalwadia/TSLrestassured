@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4245" started-at="2021-10-08T16:36:05 IST" finished-at="2021-10-08T16:36:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4245" started-at="2021-10-08T16:36:05 IST" finished-at="2021-10-08T16:36:09 IST">
+      <class name="day1.WeatherAPI">
+        <test-method status="PASS" signature="getWeather()[pri:0, instance:day1.WeatherAPI@394e1a0f]" name="getWeather" duration-ms="3224" started-at="2021-10-08T16:36:05 IST" description="getting weather information of Specific City" finished-at="2021-10-08T16:36:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeather -->
+        <test-method status="PASS" signature="getWeather2()[pri:0, instance:day1.WeatherAPI@394e1a0f]" name="getWeather2" duration-ms="489" started-at="2021-10-08T16:36:08 IST" description="getting weather information of Specific City" finished-at="2021-10-08T16:36:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeather2 -->
+        <test-method status="PASS" signature="getWeather4()[pri:0, instance:day1.WeatherAPI@394e1a0f]" name="getWeather4" duration-ms="460" started-at="2021-10-08T16:36:08 IST" description="Getting weather information of Specific City" finished-at="2021-10-08T16:36:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeather4 -->
+      </class> <!-- day1.WeatherAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
